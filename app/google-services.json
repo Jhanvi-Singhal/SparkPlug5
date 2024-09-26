@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100415274576",
+    "project_id": "sparkplug-2483a",
+    "storage_bucket": "sparkplug-2483a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100415274576:android:016c8c76291a0dd9a3db55",
+        "android_client_info": {
+          "package_name": "com.example.sparkplug5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvqT3waanfLOJl-Ua_qLkSp6HBkpmCYXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
